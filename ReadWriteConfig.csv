@@ -1,0 +1,3 @@
+Stream Type(only 1 per row); Total integers per file (Ex: 1000, 10000, 100000...);Nr of streams; Buffer size range (Ex: 1,6);Nr Loops
+BufferB;100000000;1;25,25;5
+Mapping;100000000;1;25,25;5

@@ -1,0 +1,2 @@
+Read Stream Type(only 1 per row); Write Stream Type(only 1 per row); Nr of streams; Nr Integers in Memory (Ex: 1000, 10000, 100000...); Buffer size range (Ex: 1,6);Nr Loops;Input file (full path); Output file; true (Ascending sort order)
+BufferB;BufferB;5;1000;6,6;2;C:\Users\Administrator\Desktop\DSA\FilesFolder\1\1000\1000_98e5a9f3-bcf9-4722-8882-ca9c6b5f38d3.dat;Test;true
